@@ -1,0 +1,5 @@
+创建新的存储仓库
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/VioTan/test.git
+git push -u origin master
