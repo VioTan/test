@@ -2,5 +2,5 @@
 git add README.md
 git commit -m "first commit" 
 git remote add origin https://github.com/VioTan/test.git   
-git push -u origin master --提交 --同步到本地仓库
+git pull --rebase origin master --提交 --同步到本地仓库
 git push -u origin master --上传本地代码
